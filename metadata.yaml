@@ -1,0 +1,29 @@
+_repo: The-atom-and-the-Bohr-theory-of-its-structure_70708
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Holst, Helge
+    gutenberg_agent_id: '55877'
+    url: http://www.gutenberg.org/2009/agents/55877
+  - agent_name: Kramers, H. A.
+    gutenberg_agent_id: '55876'
+    url: http://www.gutenberg.org/2009/agents/55876
+description: ''
+gutenberg_issued: '2023-05-05'
+identifiers:
+  gutenberg: '70708'
+language: en
+pgterms:marc904: https://archive.org/details/atombohrtheoryof00kram
+pgterms:marc905: 20220810094956kramers
+pgterms:marc906: '1923'
+pgterms:marc907: US
+production_note: deaurider and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bAlfred A. Knopf, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The atom and the Bohr theory of its structure
+url: http://www.gutenberg.org/ebooks/70708
